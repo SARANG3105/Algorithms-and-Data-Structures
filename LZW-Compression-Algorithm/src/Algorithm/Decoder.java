@@ -1,8 +1,4 @@
-/*
-Name: Sarangdeep Singh
-StudentID: 800985893
-Email: ssingh53@uncc.edu
-*/
+
 
 
 package Algorithm;
