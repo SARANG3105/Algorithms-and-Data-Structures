@@ -1,10 +1,3 @@
-Name: Sarangdeep Singh
-StudentID: 800985893
-Email: ssingh53@uncc.edu
-
-
-
-=====  PROJECT 1-LAMPEL ZEV WELCH COMPRESSION ALGORITHM  =====
 
 
 ==DESCRIPTION==
