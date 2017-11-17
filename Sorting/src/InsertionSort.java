@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class InsertionSort {
 	static int[] sort(int[] arr) {
-	   int max=0, min=0,key=0,i=0,j=0;
+	   int key=0,i=0,j=0;
        for(j=1;j<arr.length;j++){
           key= arr[j];
            i=j-1;
